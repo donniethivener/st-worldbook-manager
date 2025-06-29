@@ -1,0 +1,13 @@
+{
+    "name": "Worldbook Manager",
+    "author": "YourName",
+    "description": "一个可以快速管理和切换世界书条目（World Info）启用状态的插件。提供一个可拖动的悬浮图标，点击即可进行批量操作。An extension to quickly manage and toggle the enabled state of World Info entries. Provides a draggable floating icon for bulk actions.",
+    "version": "1.0.0",
+    "tags": ["utilities", "worldinfo"],
+    "requires": ["1.10.0"],
+    "extension_assets": [
+        "index.html",
+        "style.css"
+    ],
+    "script": "script.js"
+}
